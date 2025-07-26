@@ -5,3 +5,4 @@ app.py is the streamlit app code.
 run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
 
 You may need to install additional libraries for running the jupyter notebooks.
+<img width="1863" height="745" alt="image" src="https://github.com/user-attachments/assets/9085f83f-56da-4d36-b07a-ceb70f17b5c9" />
