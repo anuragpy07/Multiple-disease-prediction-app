@@ -20,7 +20,7 @@ heart_disease_model = pickle.load(open(f'{working_dir}/saved_models/heart_diseas
 
 parkinsons_model = pickle.load(open(f'{working_dir}/saved_models/parkinsons_model.sav', 'rb'))
 
-breast_cancer_model = pickle.load(open('saved_model/breast_model.sav', 'rb'))
+breast_cancer_model = pickle.load(open(f'{working_dir}/saved_models/breast_model.sav', 'rb'))
 
 # sidebar for navigation
 with st.sidebar:
